@@ -1,0 +1,10 @@
+pkg.name: libs/drivers/dummy
+pkg.description: Dummy Driver
+pkg.author: ""
+pkg.homepage: ""
+pkg.keywords:
+    - dummy
+
+pkg.deps:
+    - "@apache-mynewt-core/kernel/os"
+    - "@apache-mynewt-core/sys/shell"
